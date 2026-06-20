@@ -1,6 +1,6 @@
 # Multi-function-Automation-and-protection-system
 
-Project Objectives:
+PROJECT OBJECTIVES :
 
   1. To develop a low-cost smart automation and security system using a microcontroller-based platform.
   2. To provide secure access control through password authentication and automated door locking mechanisms.
@@ -11,7 +11,7 @@ Project Objectives:
 
 __________________________________________________________________________________________________________________
 
-Equipments Used : 
+EQUIPMENTS USED : 
 
   1. Arduino UNO
      
@@ -39,19 +39,19 @@ Equipments Used :
 
 _______________________________________________________________________________________________________
 
-Circuit Diagram :
+CIRCUIT DIAGRAM :
 
 <img width="1081" height="667" alt="Circuit Diagram" src="https://github.com/user-attachments/assets/dc856665-48b9-484e-8232-65a4f6922a6e" />
 
 _______________________________________________________________________________________________________
 
-Circuit Setup :
+CIRCUIT SETUP :
 
 <img width="1269" height="683" alt="Circuit Setup" src="https://github.com/user-attachments/assets/7c9c6597-5868-43cc-ae2b-0563945b8a5d" />
 
 _______________________________________________________________________________________________________
 
-Wiring Description :
+WIRING DESCRIPTION :
 
   1. Arduino UNO Board (base controller)
      
@@ -117,7 +117,7 @@ Wiring Description :
 
 _______________________________________________________________________________________________________
 
-MOTIVE OF THE PROJECT
+MOTIVE OF THE PROJECT :
 
    1. To solve real life problem
       
